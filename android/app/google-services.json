@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "312547094371",
+    "project_id": "food-bridge-g41opz",
+    "storage_bucket": "food-bridge-g41opz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312547094371:android:e5676d5555fdbd981bed56",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodbridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312547094371-7lpd0jc7871o31r5vqih28f9vtilfde0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.foodbridge",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "312547094371-jb00nq0qv1bfebt46tbcajffuiv52spf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.foodbridge",
+            "certificate_hash": "11e6053885374fa155c4dbf99af94de121b6582b"
+          }
+        },
+        {
+          "client_id": "312547094371-aods4hinvg7o206ad49mcgu6h1k3n5ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9BdpUnO5ZhLOYU6_CuF5KYPXmI4xAfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312547094371-aods4hinvg7o206ad49mcgu6h1k3n5ht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312547094371-8c9pj1kkk791ahjrfgqt58ecimggh054.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.foodbridge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
