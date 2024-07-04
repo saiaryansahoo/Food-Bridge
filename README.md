@@ -1,6 +1,6 @@
 # FoodBridge
 
-FoodBridge is a Flutter-based mobile application designed to bridge the gap between food providers and consumers. This project aims to streamline the process of food delivery and management.
+FoodBridge is a Flutter-based mobile application designed to bridge the gap between resturants and NGO's. This project aims to streamline the process of food delivery and deliver the food to the needy ones.
 
 ## Features
 
