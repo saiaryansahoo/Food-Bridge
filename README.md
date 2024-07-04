@@ -87,4 +87,4 @@ For any questions or suggestions, feel free to reach out to the project maintain
 
 - **Sai Aryan Sahoo**
 - [GitHub Profile](https://github.com/saiaryansahoo)
-- [Email](mailto:saiaryan.sahoo@egmail.com)
+- [Email](mailto:saiaryan.sahoo@gmail.com)
